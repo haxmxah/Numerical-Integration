@@ -18,7 +18,7 @@ Knowing that the exact value is
 
 $$A= \pi ab$$
 
-## Study of the error of the error associated comparing both methods
+## Study of the error and convergence associated comparing both methods
 We are now going to study the behavior of the two methos computing:
 
 $$A_2 = \int_{-5b/2}^{-2b}$$
